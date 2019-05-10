@@ -3,14 +3,14 @@
 $(document).ready(function () {
 
 	var forms=['https://drive.google.com/open?id=1Kod0wo-rNSeyuYnqqXE32bL_jOevJMKyEsIMYddcaew',	//1A
-		   'https://drive.google.com/open?id=14UTTVvhHlQaflShLkiHrXndy3oVWFgr3WX5Odnq8D_g', //1B
-		   'https://drive.google.com/open?id=1tenAVbPaLDfwtEBseeafh1zL4tEfEWADMctAtmQquxQ', //1C
-		   'https://drive.google.com/open?id=1rrJyzoqwP0arfQK1xoVDR5zPc6DzT55o7kOlYdVOKyg', //2A
-		   'https://drive.google.com/open?id=16D3foyPhY_c8cuPxLNLscfLdhFs7XCEmAMD_rXf_fLw', //2B
-		   'https://drive.google.com/open?id=1LV1n4dR-4vMNHb8WQdhyVI8_u2P77fpozIH_YwwVOxk', //2C
-		   'https://drive.google.com/open?id=1tenFCQYnVqsF25ZOqpULcp466z365bg5lTm1-BN1gvE', //3A
-		   'https://drive.google.com/open?id=1fGQc9VwRJhHAYZY458VpP8_xWEhqzMd_i8hsDikEEE4', //3B
-		   'https://drive.google.com/open?id=16A0cFJjZdX026A5oL8x9kHwN7DwJcaLK8yaOndCikb4', //3C
+		   'https://drive.google.com/open?id=1pL7eLrzflz6VMrEGSd78BtFONd7HON8XKv-_mQcCAkY', //1B
+		   'https://drive.google.com/open?id=1RD_T03DNjdm-so9YpByU5_d77-xmQUj1an9552YeOMw', //1C
+		   'https://drive.google.com/open?id=1okxKcUlYilFRkmTwtXZewnEebsG5YbemjadFuHtYkZ8', //2A
+		   'https://drive.google.com/open?id=1o82VJK9FlcYa9ZVrv_M_YlRuycSRUsTwaEPv_lKCd04', //2B
+		   'https://drive.google.com/open?id=1DKPfYD_vaEOAcV3HfkiatECo2Tsz1aJON8rTH9lRgH0', //2C
+		   'https://drive.google.com/open?id=1vEBvg1npfs7Z_PbSXVu4-KZnKYBanTUoO5pAFTnnark', //3A
+		   'https://drive.google.com/open?id=1701URQXDGjFaq_VrJDphIkJQyBFkqRtteJIY07J60qs', //3B
+		   'https://drive.google.com/open?id=11gj-niBvPq2zYIWmhtgVc61Z07BSncEiPkKJtd_laRI', //3C
 		   'https://drive.google.com/open?id=1gGCFt8bLm4ATHszjI4y2AIgD-2e7hwpQ9Lo1SQplS14', //4A
 		   'https://drive.google.com/open?id=1T_ICX0Tl8e5dWkLnS2TyNs8NiIHg7AcjypSGTTOhEbg', //4B
 		   'https://drive.google.com/open?id=1PzDE5lSs9hBYsukxtednpdQVJSU6SnC0eTZipVlv9E0', //4C
